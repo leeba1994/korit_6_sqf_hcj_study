@@ -1,0 +1,5 @@
+header { /*외부 스타일 시트*/
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+}
